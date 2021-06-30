@@ -16,4 +16,4 @@ end A5;
 architecture solve of A5 is
 	begin 
 		S<= '1' when (A='1' and B='1' and C='1' and D='1' and E='1') eLse '0';
-end soLve;
+end solve;
